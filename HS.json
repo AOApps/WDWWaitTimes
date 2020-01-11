@@ -1,16 +1,16 @@
 {
   "18360041;entityType=Attraction": 15,
-  "80010193;entityType=Attraction": 30,
+  "80010193;entityType=Attraction": 15,
   "18904172;entityType=Attraction": 25,
   "18669338;entityType=Entertainment": 15,
   "18189398;entityType=Entertainment": 25,
   "80010151;entityType=Attraction": 10,
-  "18368385;entityType=Entertainment": 35,
+  "18368385;entityType=Entertainment": 25,
   "209857;entityType=Attraction": 45,
   "18904138;entityType=Attraction": 80,
-  "19263735;entityType=Attraction": 55,
+  "19263735;entityType=Attraction": 50,
   "19152250;entityType=Entertainment": 25,
   "80010218;entityType=Attraction": 70,
   "80010182;entityType=Attraction": 75,
-  "18368386;entityType=Entertainment": 30
+  "18368386;entityType=Entertainment": 35
 }
