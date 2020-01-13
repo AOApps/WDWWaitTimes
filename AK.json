@@ -1,10 +1,10 @@
 {
-  "80010228;entityType=Attraction": 15,
+  "80010228;entityType=Attraction": 10,
   "80010150;entityType=Attraction": 10,
-  "26068;entityType=Attraction": 65,
-  "18665186;entityType=Attraction": 140,
+  "26068;entityType=Attraction": 20,
+  "18665186;entityType=Attraction": 130,
   "80010157;entityType=Attraction": 65,
-  "17421326;entityType=Entertainment": 60,
-  "18665185;entityType=Attraction": 65,
+  "17421326;entityType=Entertainment": 15,
+  "18665185;entityType=Attraction": 40,
   "80010123;entityType=Attraction": 60
 }
