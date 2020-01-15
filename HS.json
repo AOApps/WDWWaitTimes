@@ -52,7 +52,7 @@
     "status": "Operating"
   },
   "18368386;entityType=Entertainment": {
-    "wait": 10,
+    "wait": 20,
     "status": "Operating"
   }
 }
