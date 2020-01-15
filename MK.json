@@ -1,31 +1,110 @@
 {
-  "80010208;entityType=Attraction": 10,
-  "136550;entityType=Attraction": 25,
-  "80010117;entityType=Attraction": 5,
-  "80010224;entityType=Attraction": 10,
-  "17505397;entityType=Entertainment": 20,
-  "18498503;entityType=Entertainment": 20,
-  "16874126;entityType=Entertainment": 35,
-  "387133;entityType=Entertainment": 10,
-  "15743682;entityType=Entertainment": 15,
-  "80010162;entityType=Attraction": 10,
-  "16767263;entityType=Attraction": 5,
-  "80010170;entityType=Attraction": 15,
-  "15850196;entityType=Entertainment": 5,
-  "17752793;entityType=Entertainment": 5,
-  "80010149;entityType=Attraction": 10,
-  "80010190;entityType=Attraction": 5,
-  "16491297;entityType=Attraction": 5,
-  "80010114;entityType=Attraction": 5,
-  "80010107;entityType=Attraction": 10,
-  "80010213;entityType=Attraction": 5,
-  "16767284;entityType=Attraction": 25,
-  "80010176;entityType=Attraction": 5,
-  "80010153;entityType=Attraction": 5,
-  "80010110;entityType=Attraction": 5,
-  "80010129;entityType=Attraction": 10,
-  "80010222;entityType=Attraction": 15,
-  "16767276;entityType=Attraction": 40,
-  "80010210;entityType=Attraction": 10,
-  "80010177;entityType=Attraction": 5
+  "80010177;entityType=Attraction": {
+    "wait": 50,
+    "status": "Operating"
+  },
+  "80010208;entityType=Attraction": {
+    "wait": 50,
+    "status": "Operating"
+  },
+  "136550;entityType=Attraction": {
+    "wait": 10,
+    "status": "Operating"
+  },
+  "80010117;entityType=Attraction": {
+    "wait": 10,
+    "status": "Operating"
+  },
+  "17505397;entityType=Entertainment": {
+    "wait": 20,
+    "status": "Operating"
+  },
+  "18498503;entityType=Entertainment": {
+    "wait": 20,
+    "status": "Operating"
+  },
+  "16874126;entityType=Entertainment": {
+    "wait": 40,
+    "status": "Operating"
+  },
+  "387133;entityType=Entertainment": {
+    "wait": 20,
+    "status": "Operating"
+  },
+  "15743682;entityType=Entertainment": {
+    "wait": 40,
+    "status": "Operating"
+  },
+  "80010162;entityType=Attraction": {
+    "wait": 15,
+    "status": "Operating"
+  },
+  "16767263;entityType=Attraction": {
+    "wait": 15,
+    "status": "Operating"
+  },
+  "80010170;entityType=Attraction": {
+    "wait": 10,
+    "status": "Operating"
+  },
+  "15850196;entityType=Entertainment": {
+    "wait": 20,
+    "status": "Operating"
+  },
+  "17752793;entityType=Entertainment": {
+    "wait": 50,
+    "status": "Operating"
+  },
+  "80010149;entityType=Attraction": {
+    "wait": 25,
+    "status": "Operating"
+  },
+  "80010190;entityType=Attraction": {
+    "wait": 55,
+    "status": "Operating"
+  },
+  "16491297;entityType=Attraction": {
+    "wait": 30,
+    "status": "Operating"
+  },
+  "80010114;entityType=Attraction": {
+    "wait": 50,
+    "status": "Operating"
+  },
+  "80010107;entityType=Attraction": {
+    "wait": 25,
+    "status": "Operating"
+  },
+  "80010213;entityType=Attraction": {
+    "wait": 30,
+    "status": "Operating"
+  },
+  "16767284;entityType=Attraction": {
+    "wait": 115,
+    "status": "Operating"
+  },
+  "80010176;entityType=Attraction": {
+    "wait": 70,
+    "status": "Operating"
+  },
+  "80010110;entityType=Attraction": {
+    "wait": 40,
+    "status": "Operating"
+  },
+  "80010129;entityType=Attraction": {
+    "wait": 15,
+    "status": "Operating"
+  },
+  "80010222;entityType=Attraction": {
+    "wait": 25,
+    "status": "Operating"
+  },
+  "16767276;entityType=Attraction": {
+    "wait": 25,
+    "status": "Operating"
+  },
+  "80010210;entityType=Attraction": {
+    "wait": 25,
+    "status": "Operating"
+  }
 }
