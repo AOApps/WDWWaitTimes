@@ -32,11 +32,11 @@
     "status": "Operating"
   },
   "17564219;entityType=Entertainment": {
-    "wait": 30,
+    "wait": 25,
     "status": "Operating"
   },
   "80010152;entityType=Attraction": {
-    "wait": 5,
+    "wait": 10,
     "status": "Operating"
   }
 }
