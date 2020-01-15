@@ -28,7 +28,7 @@
     "status": "Operating"
   },
   "387133;entityType=Entertainment": {
-    "wait": 45,
+    "wait": 30,
     "status": "Operating"
   },
   "15743682;entityType=Entertainment": {
@@ -56,7 +56,7 @@
     "status": "Operating"
   },
   "80010149;entityType=Attraction": {
-    "wait": 20,
+    "wait": 25,
     "status": "Operating"
   },
   "80010190;entityType=Attraction": {
