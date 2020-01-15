@@ -36,7 +36,7 @@
     "status": "Operating"
   },
   "80010152;entityType=Attraction": {
-    "wait": 35,
+    "wait": 25,
     "status": "Operating"
   }
 }
