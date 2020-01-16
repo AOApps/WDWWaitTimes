@@ -1,6 +1,6 @@
 {
   "80010177;entityType=Attraction": {
-    "wait": 35,
+    "wait": 30,
     "status": "Operating"
   },
   "80010208;entityType=Attraction": {
@@ -72,11 +72,11 @@
     "status": "Operating"
   },
   "80010107;entityType=Attraction": {
-    "wait": 30,
+    "wait": 40,
     "status": "Operating"
   },
   "80010213;entityType=Attraction": {
-    "wait": 40,
+    "wait": 30,
     "status": "Operating"
   },
   "16767284;entityType=Attraction": {
@@ -100,7 +100,7 @@
     "status": "Operating"
   },
   "16767276;entityType=Attraction": {
-    "wait": 25,
+    "wait": 15,
     "status": "Operating"
   },
   "80010210;entityType=Attraction": {
