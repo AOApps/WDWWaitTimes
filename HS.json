@@ -28,11 +28,11 @@
     "status": "Operating"
   },
   "209857;entityType=Attraction": {
-    "wait": 40,
+    "wait": 30,
     "status": "Operating"
   },
   "18904138;entityType=Attraction": {
-    "wait": 75,
+    "wait": 80,
     "status": "Operating"
   },
   "19263735;entityType=Attraction": {
