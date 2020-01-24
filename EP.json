@@ -12,7 +12,7 @@
     "status": "Operating"
   },
   "80010173;entityType=Attraction": {
-    "wait": 70,
+    "wait": 20,
     "status": "Operating"
   },
   "20194;entityType=Attraction": {
