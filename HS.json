@@ -44,11 +44,11 @@
     "status": "Operating"
   },
   "80010218;entityType=Attraction": {
-    "wait": 60,
+    "wait": 65,
     "status": "Operating"
   },
   "80010182;entityType=Attraction": {
-    "wait": 65,
+    "wait": 50,
     "status": "Operating"
   },
   "18368386;entityType=Entertainment": {
