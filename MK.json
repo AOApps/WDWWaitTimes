@@ -1,6 +1,6 @@
 {
   "80010177;entityType=Attraction": {
-    "wait": 65,
+    "wait": 55,
     "status": "Operating"
   },
   "80010208;entityType=Attraction": {
@@ -72,7 +72,7 @@
     "status": "Operating"
   },
   "80010107;entityType=Attraction": {
-    "wait": 25,
+    "wait": 35,
     "status": "Operating"
   },
   "80010213;entityType=Attraction": {
@@ -108,7 +108,7 @@
     "status": "Operating"
   },
   "80010153;entityType=Attraction": {
-    "wait": 70,
+    "wait": 85,
     "status": "Operating"
   },
   "80010224;entityType=Attraction": {
