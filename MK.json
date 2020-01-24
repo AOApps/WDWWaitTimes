@@ -8,7 +8,7 @@
     "status": "Operating"
   },
   "136550;entityType=Attraction": {
-    "wait": 10,
+    "wait": 20,
     "status": "Operating"
   },
   "80010117;entityType=Attraction": {
@@ -36,7 +36,7 @@
     "status": "Operating"
   },
   "80010162;entityType=Attraction": {
-    "wait": 30,
+    "wait": 35,
     "status": "Operating"
   },
   "16767263;entityType=Attraction": {
@@ -52,7 +52,7 @@
     "status": "Operating"
   },
   "17752793;entityType=Entertainment": {
-    "wait": 20,
+    "wait": 25,
     "status": "Operating"
   },
   "80010149;entityType=Attraction": {
@@ -72,7 +72,7 @@
     "status": "Operating"
   },
   "80010107;entityType=Attraction": {
-    "wait": 30,
+    "wait": 25,
     "status": "Operating"
   },
   "80010213;entityType=Attraction": {
@@ -88,11 +88,11 @@
     "status": "Operating"
   },
   "80010110;entityType=Attraction": {
-    "wait": 85,
+    "wait": 90,
     "status": "Operating"
   },
   "80010129;entityType=Attraction": {
-    "wait": 20,
+    "wait": 45,
     "status": "Operating"
   },
   "80010222;entityType=Attraction": {
@@ -108,7 +108,7 @@
     "status": "Operating"
   },
   "80010153;entityType=Attraction": {
-    "wait": 65,
+    "wait": 60,
     "status": "Operating"
   },
   "80010224;entityType=Attraction": {
