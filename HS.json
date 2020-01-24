@@ -1,6 +1,6 @@
 {
   "80010193;entityType=Attraction": {
-    "wait": 15,
+    "wait": 20,
     "status": "Operating"
   },
   "19276204;entityType=Attraction": {
@@ -32,7 +32,7 @@
     "status": "Operating"
   },
   "18904138;entityType=Attraction": {
-    "wait": 90,
+    "wait": 85,
     "status": "Operating"
   },
   "19263735;entityType=Attraction": {
@@ -44,11 +44,11 @@
     "status": "Operating"
   },
   "80010218;entityType=Attraction": {
-    "wait": 75,
+    "wait": 70,
     "status": "Operating"
   },
   "80010182;entityType=Attraction": {
-    "wait": 65,
+    "wait": 45,
     "status": "Operating"
   },
   "18368386;entityType=Entertainment": {
