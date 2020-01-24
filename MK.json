@@ -20,7 +20,7 @@
     "status": "Operating"
   },
   "18498503;entityType=Entertainment": {
-    "wait": 60,
+    "wait": 40,
     "status": "Operating"
   },
   "16874126;entityType=Entertainment": {
@@ -80,7 +80,7 @@
     "status": "Operating"
   },
   "16767284;entityType=Attraction": {
-    "wait": 150,
+    "wait": 145,
     "status": "Operating"
   },
   "80010176;entityType=Attraction": {
