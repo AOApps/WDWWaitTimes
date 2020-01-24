@@ -8,7 +8,7 @@
     "status": "Operating"
   },
   "136550;entityType=Attraction": {
-    "wait": 20,
+    "wait": 15,
     "status": "Operating"
   },
   "80010117;entityType=Attraction": {
@@ -64,7 +64,7 @@
     "status": "Operating"
   },
   "16491297;entityType=Attraction": {
-    "wait": 40,
+    "wait": 30,
     "status": "Operating"
   },
   "80010114;entityType=Attraction": {
@@ -76,7 +76,7 @@
     "status": "Operating"
   },
   "80010213;entityType=Attraction": {
-    "wait": 35,
+    "wait": 30,
     "status": "Operating"
   },
   "16767284;entityType=Attraction": {
@@ -92,7 +92,7 @@
     "status": "Operating"
   },
   "80010129;entityType=Attraction": {
-    "wait": 45,
+    "wait": 20,
     "status": "Operating"
   },
   "80010222;entityType=Attraction": {
