@@ -1,6 +1,6 @@
 {
   "80010193;entityType=Attraction": {
-    "wait": 25,
+    "wait": 10,
     "status": "Operating"
   },
   "19276204;entityType=Attraction": {
