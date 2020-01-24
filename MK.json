@@ -72,7 +72,7 @@
     "status": "Operating"
   },
   "80010107;entityType=Attraction": {
-    "wait": 25,
+    "wait": 30,
     "status": "Operating"
   },
   "80010213;entityType=Attraction": {
@@ -88,7 +88,7 @@
     "status": "Operating"
   },
   "80010110;entityType=Attraction": {
-    "wait": 85,
+    "wait": 90,
     "status": "Operating"
   },
   "80010129;entityType=Attraction": {
@@ -100,7 +100,7 @@
     "status": "Operating"
   },
   "16767276;entityType=Attraction": {
-    "wait": 10,
+    "wait": 25,
     "status": "Operating"
   },
   "80010210;entityType=Attraction": {
