@@ -8,11 +8,11 @@
     "status": "Operating"
   },
   "62992;entityType=Attraction": {
-    "wait": 10,
+    "wait": 5,
     "status": "Operating"
   },
   "80010173;entityType=Attraction": {
-    "wait": 75,
+    "wait": 15,
     "status": "Operating"
   },
   "20194;entityType=Attraction": {
@@ -36,7 +36,7 @@
     "status": "Operating"
   },
   "80010152;entityType=Attraction": {
-    "wait": 15,
+    "wait": 10,
     "status": "Operating"
   }
 }
